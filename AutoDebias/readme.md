@@ -1,4 +1,5 @@
 ## How to Generate Prompts and Apply AutoDebias
+Code based on [this paper](https://aclanthology.org/2022.acl-long.72/).
 
 To generate prompts, use the following command:
 
